@@ -19,7 +19,7 @@
 
 ## Dreambooth y LoRA
 
-## ControlNet
+## Pix2Pix y ControlNet
 ---
 ## Estado del arte
 
@@ -28,6 +28,8 @@ Vía comercial
 Vía Open Source
 
 ## Hacia el futuro
+
+Point-e
 
 Gen-2
 
