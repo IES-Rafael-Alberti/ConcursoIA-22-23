@@ -99,8 +99,23 @@ https://weirdwonderfulai.art/general/midjourney-versions-ai-evolution/
 2	April 2022[10]
 3	July 25, 2022[11]
 4	November 5, 2022 (alpha)[12]
+
+
+<img class="r-stretch" style="text-align: center" src="../assets/FoopJKDXgAAXjMn.jpeg">
+
+<small>barbarian character detailed, 8k, blizzard, diablo 3, isometric view, isometric projection, style mucha, sharp focus, elegant, render, octane, detailed, award winning photography, masterpiece, rim lit, sharp focus, highly detailed, fujifilm X-Pro3, 35mm f1.4 lens, in style of the artstation, digital art, hyperdetailed, hyper realistic, unreal engine, 8k, black background png --v 4</small>
+
+
+
 5	March 16, 2023 (beta)[14]
 
+
+<img class="r-stretch" style="text-align: center" src="../assets/barbarian_character_detailed_8k_blizzard_diablo_3__d8f72ff4-9366-4020-9239-7116dcd3392a.png">
+
+<small>barbarian character detailed, 8k, blizzard, diablo 3, isometric view, isometric projection, style mucha, sharp focus, elegant, render, octane, detailed, award winning photography, masterpiece, rim lit, sharp focus, highly detailed, fujifilm X-Pro3, 35mm f1.4 lens, in style of the artstation, digital art, hyperdetailed, hyper realistic, unreal engine, 8k, black background png --v 5</small>
+
+
+## Midjourney 5 - personas
 
 ## ControlNet
 
