@@ -66,11 +66,18 @@
 ---
 ## Stable Diffusion
 
+<img class="r-stretch" style="text-align: center" src="../assets/front_photograph_of_poet___hq.png">
+
+<small>front photograph of poet, hq</small>
 
 <small>StabilityAI - Agosto 2022</small>
 
 
 ## Open Source
+
+<img class="r-stretch" style="text-align: center" src="../assets/collage-stable-diffusion.png">
+
+<small>Modelos fine-tunning de Stable Diffusion</small>
 
 
 ## Dreambooth
