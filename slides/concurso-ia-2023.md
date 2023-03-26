@@ -10,14 +10,14 @@
 ## Historia reciente de la generación de imágenes usando IA
 
 <img class="r-stretch" style="text-align: center" src="../assets/a_collage_of_ia_generated_images_b79ffc1c-ad6f-49a8-8407-dfd384ef4619.png">
-
-
+---
 ## DALL·E
 
 <img class="r-stretch" style="text-align: center" src="../assets/dall-e-1.jpg.webp">
 
 <small>OpenAI - Enero 2021</small>
----
+
+
 ## DALL·E 2
 
 <img class="r-stretch" style="text-align: center" src="../assets/dall-e-2.jpg.webp">
