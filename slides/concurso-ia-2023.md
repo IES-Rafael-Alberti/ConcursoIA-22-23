@@ -117,12 +117,63 @@ https://weirdwonderfulai.art/general/midjourney-versions-ai-evolution/
 
 ## Midjourney 5 - personas
 
+---
 ## ControlNet
 
-https://github.com/lllyasviel/ControlNet
+<img class="r-stretch" style="text-align: center" src="../assets/controlnet.webp">
 
-Febrero 2023
+<small>Febrero 2023</small>
 
+
+## Canny Edge Maps
+
+<img class="r-stretch" style="text-align: center" src="../assets/canny-edge.png">
+
+
+## Hough Lines Map
+
+<img class="r-stretch" style="text-align: center" src="../assets/HLM.png">
+
+
+## HED Maps
+
+<img class="r-stretch" style="text-align: center" src="../assets/HED.png">
+
+
+## Scribble Maps
+
+<img class="r-stretch" style="text-align: center" src="../assets/Scribble.png">
+
+
+## Interactive Scribble Maps
+
+<img class="r-stretch" style="text-align: center" src="../assets/interactive-scribble.png">
+
+
+## Fake Scribble Maps
+
+<img class="r-stretch" style="text-align: center" src="../assets/fake-scribble.png">
+
+
+## Human Pose
+
+<img class="r-stretch" style="text-align: center" src="../assets/human-pose.png">
+
+
+## Segmentation Maps
+
+<img class="r-stretch" style="text-align: center" src="../assets/segmentation.png">
+
+
+## Depth Maps
+
+<img class="r-stretch" style="text-align: center" src="../assets/depth.png">
+
+
+## Normal Maps
+
+<img class="r-stretch" style="text-align: center" src="../assets/normal.png">
+---
 ## Adobe Firelfly
 
 https://www.adobe.com/sensei/generative-ai/firefly.html
