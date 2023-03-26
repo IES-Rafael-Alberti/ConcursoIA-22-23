@@ -1,4 +1,4 @@
-## Concurso IA
+<img class="r-stretch" style="text-align: center" src="../assets/poster.jpg">
 ---
 ## ¿Quiénes somos?
 
@@ -8,6 +8,9 @@
 ## Alumnado
 ---
 ## Historia reciente de la generación de imágenes usando IA
+
+<img class="r-stretch" style="text-align: center" src="../assets/a_collage_of_ia_generated_images_b79ffc1c-ad6f-49a8-8407-dfd384ef4619.png">
+
 
 ## DALL·E
 
@@ -82,41 +85,62 @@
 
 ## Dreambooth
 
+<img class="r-stretch" style="text-align: center" src="../assets/dreambooth.jpg">
 
-## LoRA
+<small>25 agosto 2022</small>
 
 
 ## Stable Diffusion 2.1
 
+<img class="r-stretch" style="text-align: center" src="../assets/sd21.png">
 
 <small>StabilityAI - Diciembre 2022</small>
 ---
 ## Midjourney
 
-https://weirdwonderfulai.art/general/midjourney-versions-ai-evolution/
-
-1	March 2022
-2	April 2022[10]
-3	July 25, 2022[11]
-4	November 5, 2022 (alpha)[12]
+<img class="r-stretch" style="text-align: center" src="../assets/MJ_Boat.png">
 
 
-<img class="r-stretch" style="text-align: center" src="../assets/FoopJKDXgAAXjMn.jpeg">
+## v1
 
-<small>barbarian character detailed, 8k, blizzard, diablo 3, isometric view, isometric projection, style mucha, sharp focus, elegant, render, octane, detailed, award winning photography, masterpiece, rim lit, sharp focus, highly detailed, fujifilm X-Pro3, 35mm f1.4 lens, in style of the artstation, digital art, hyperdetailed, hyper realistic, unreal engine, 8k, black background png --v 4</small>
+<img class="r-stretch" style="text-align: center" src="../assets/v1.jpg">
 
-
-
-5	March 16, 2023 (beta)[14]
+<small>Marzo 2022</small> 
 
 
-<img class="r-stretch" style="text-align: center" src="../assets/barbarian_character_detailed_8k_blizzard_diablo_3__d8f72ff4-9366-4020-9239-7116dcd3392a.png">
+## v2
 
-<small>barbarian character detailed, 8k, blizzard, diablo 3, isometric view, isometric projection, style mucha, sharp focus, elegant, render, octane, detailed, award winning photography, masterpiece, rim lit, sharp focus, highly detailed, fujifilm X-Pro3, 35mm f1.4 lens, in style of the artstation, digital art, hyperdetailed, hyper realistic, unreal engine, 8k, black background png --v 5</small>
+<img class="r-stretch" style="text-align: center" src="../assets/v2.jpg">
+
+<small>Abril 2022</small>
 
 
-## Midjourney 5 - personas
+## v3
 
+<img class="r-stretch" style="text-align: center" src="../assets/v3.jpg">
+
+<small>25 julio 2022</small>
+
+
+## v4
+
+<img class="r-stretch" style="text-align: center" src="../assets/v4.jpg">
+
+<small>5 noviembre 2022</small>
+
+
+## v5
+
+<img class="r-stretch" style="text-align: center" src="../assets/v5.png">
+
+<small>15 marzo 2023</small>
+
+
+## People in v5
+
+<img class="r-stretch" style="text-align: center" src="../assets/benedict_cumberbatch_as_dr_strange_making_portals__5f00715b-d16a-4bfa-9ebe-a74f363ded69.png">
+
+<small>¡Mira las manos!</small>
 ---
 ## ControlNet
 
@@ -176,27 +200,96 @@ https://weirdwonderfulai.art/general/midjourney-versions-ai-evolution/
 ---
 ## Adobe Firelfly
 
-https://www.adobe.com/sensei/generative-ai/firefly.html
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/_sJfNfMAQHw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-21 marzo 2023
+<small>21 marzo 2023</small>
 ---
 ## ¿Hacia dónde vamos?
 
-## Point-e
+<img class="r-stretch" style="text-align: center" src="../assets/as_reference_benedict_cumberbatch_as_dr_strange_lo_ed22e071-69e1-4e80-8e43-453a1cb083d1.png">
 
-## Gen-2
+
+## Todo sobre imagen a 3D
+
+<video src="https://instruct-nerf2nerf.github.io/data/videos/face.mp4" width="512" height="384" controls></video>
+
+<small>22 marzo 2023 - Instruct-NeRF2NeRF</small>
+
+
+## Todo sobre imagen a vídeo
+
+<video src="https://d3phaj0sisr2ct.cloudfront.net/research/Gen2.mp4" width="640" height="480" controls></video>
+
+<small>6 febrero 2023 - Gen-2</small>
 ---
 ## El portal Hugging Face
 
+<img class="r-stretch" style="text-align: center" src="../assets/hugging-face.png">
+
+
 ## Datasets
+
+<img class="r-stretch" style="text-align: center" src="../assets/datasets.png">
+
 
 ## Models
 
+<img class="r-stretch" style="text-align: center" src="../assets/models.png">
+
+
 ## Spaces
+
+<img class="r-stretch" style="text-align: center" src="../assets/spaces.png">
 ---
 ## Demo Time!
---
+
+<img class="r-stretch" style="text-align: center" src="../assets/benedict_cumberbatch_as_dr_strange_making_portals__c7558730-521d-4a95-aad8-1b79ffbf76c6.png">
+---
 ## ¿Qué puedes crear?
+
+<img class="r-stretch" style="text-align: center" src="../assets/ui.png">
+
+
+## ¡Únete a la organización!
+
+QR
+---
+## Algunos parámetros básicos
+
+
+## Seed
+
+
+## Negative Prompt
+
+
+## Model
+
+
+## Guidance Scale
+
+
+## Number of steps
+
+
+## Width and Height
+
+
+## Number of Images
+
+
+## Schedulers
+
+
+## Upscale
+---
+## Accede a recursos
+
+QR
+---
+## Envía tu mejor imagen
+
+QR
 ---
 
 <!-- .slide: data-background-video="../assets/searching.mp4" data-background-opacity="0.6" data-background-video-loop data-background-video-muted-->
