@@ -256,32 +256,52 @@ QR
 ---
 ## Algunos parámetros básicos
 
+<img class="r-stretch" style="text-align: center" src="../assets/something_basic_b7f165c5-4ff8-4b24-8a22-72f337569e6f.png">
+
 
 ## Seed
+
+<img class="r-stretch" style="text-align: center" src="../assets/seed.png">
 
 
 ## Negative Prompt
 
+<img class="r-stretch" style="text-align: center" src="../assets/negative.png">
+
 
 ## Model
+
+<img class="r-stretch" style="text-align: center" src="../assets/model.png">
 
 
 ## Guidance Scale
 
+<img class="r-stretch" style="text-align: center" src="../assets/guidance.png">
+
 
 ## Number of steps
+
+<img class="r-stretch" style="text-align: center" src="../assets/steps.png">
 
 
 ## Width and Height
 
+<img class="r-stretch" style="text-align: center" src="../assets/size.png">
+
 
 ## Number of Images
+
+<img class="r-stretch" style="text-align: center" src="../assets/number.png">
 
 
 ## Schedulers
 
+<img class="r-stretch" style="text-align: center" src="../assets/scheduler.png">
+
 
 ## Upscale
+
+<img class="r-stretch" style="text-align: center" src="../assets/upscale.png">
 ---
 ## Accede a recursos
 

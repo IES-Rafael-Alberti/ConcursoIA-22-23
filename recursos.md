@@ -34,3 +34,4 @@
 * [Gen-2: The Next Step Forward for Generative AI](https://research.runwayml.com/gen2)
 * [Hugging Face](https://huggingface.co)
 * [Space ArtGAN/Stable-Diffusion-ControlNet-WebUI](https://huggingface.co/spaces/ArtGAN/Stable-Diffusion-ControlNet-WebUI)
+* [The Most Complete Guide to Stable Diffusion Parameters](https://blog.openart.ai/2023/02/13/the-most-complete-guide-to-stable-diffusion-parameters/)
