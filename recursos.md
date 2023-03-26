@@ -18,6 +18,14 @@
 
 ## Generación gratuita limitada
 
+* [Playground](https://playgroundai.com)
+* [Midjourney](https://www.midjourney.com/)
+* [Runaway Magic Tools](runwayml.com/ai-magic-tools)
+* [Bing Image Creator](bing.com/create)
+* [Clipdrop](https://clipdrop.co/)
+* [DALL-E 2](openai.com/product/dall-e-2)
+* [DreamStudio](dreamstudio.ai)
+
 ## Referencias
 
 * [DALL·E: Creating images from text](https://openai.com/research/dall-e)
