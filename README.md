@@ -1,7 +1,7 @@
 # Concurso IA 2023
 
 <p align="center">
-<img src="https://github.com/IES-Rafael-Alberti/ConcursoIA-22-23/blob/main/assets/logo-min.png?raw=true" alt="Logo">
+<img src="https://github.com/IES-Rafael-Alberti/ConcursoIA-22-23/blob/main/assets/poster.jpg?raw=true" alt="Logo">
 </p>
 
 <p align="center">
@@ -16,6 +16,7 @@
 Repositorio para alojar materiales del concurso de generación de imágenes usando IA de 2023.
 
 * [Diapositivas](slides/concurso-ia-2023.html)
+* [Recursos](recursos.md)
 
 [cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
 [cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
