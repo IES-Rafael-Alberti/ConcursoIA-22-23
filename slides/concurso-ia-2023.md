@@ -138,6 +138,16 @@
 <img class="r-stretch" style="text-align: center" src="../assets/benedict_cumberbatch_as_dr_strange_making_portals__5f00715b-d16a-4bfa-9ebe-a74f363ded69.png">
 
 <small>¡Mira las manos!</small>
+
+
+<img class="r-stretch" style="text-align: center" src="../assets/portrait_of_a_beautiful_woman_with_sunlight_stream_c9610714-dbd1-46c3-acf0-dc12f78b6503.png">
+
+<small>portrait of a beautiful woman with sunlight streaming through her blinds, volumetric light, hyper realistic photograph</small>
+
+
+<img class="r-stretch" style="text-align: center" src="../assets/portrait_of_a_beautiful_man_with_sunlight_streamin_58b00079-9290-49be-b494-a2cd4b21046e.png">
+
+<small>portrait of a beautiful man with sunlight streaming through her blinds, volumetric light, hyper realistic photograph</small>
 ---
 ## ControlNet
 
