@@ -3,11 +3,8 @@
 ## ¿Quiénes somos?
 
 <img class="r-stretch" style="text-align: center" src="../assets/logos-combinados-iabd.png">
-
-
-## Alumnado
 ---
-## Historia reciente de la generación de imágenes usando IA
+## Historia reciente de la generación de imágenes usando Inteligencia Artificial
 
 <img class="r-stretch" style="text-align: center" src="../assets/a_collage_of_ia_generated_images_b79ffc1c-ad6f-49a8-8407-dfd384ef4619.png">
 ---
