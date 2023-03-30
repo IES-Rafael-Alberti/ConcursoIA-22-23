@@ -286,11 +286,6 @@
 <img class="r-stretch" style="text-align: center" src="../assets/guidance.png">
 
 
-## Number of steps
-
-<img class="r-stretch" style="text-align: center" src="../assets/steps.png">
-
-
 ## Width and Height
 
 <img class="r-stretch" style="text-align: center" src="../assets/size.png">
@@ -304,6 +299,14 @@
 ## Schedulers
 
 <img class="r-stretch" style="text-align: center" src="../assets/scheduler.png">
+
+
+<img class="r-stretch" style="text-align: center" src="../assets/schedulers-steps.png">
+
+
+## Number of steps
+
+<img class="r-stretch" style="text-align: center" src="../assets/steps.png">
 
 
 ## Upscale
