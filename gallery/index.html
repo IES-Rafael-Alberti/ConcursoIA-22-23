@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Galería IES Rafael Alberti</title>
+</head>
+<body>
+    <header>
+        <img src="../assets/logos-combinados-iabd.png" alt="Logo IES Rafael Alberti" id="logo">
+        <h1>Concurso de imágenes generadas usando IA</h1>
+    </header>
+    <main>
+        <div class="gallery">
+            <div class="image-container">
+                <img src="../assets/gallery/rosas.png" alt="Rosas">
+                <p>https://huggingface.co/spaces/IES-Rafael-Alberti/ConcursoIA-SD-ControlNet-UI-3 ---  neat clean realistic rose  --- seed 1</p>
+            </div>
+            <div class="image-container">
+                <img src="../assets/gallery/Screenshot_20230330-192055.jpg" alt="Screenshot">
+                <p>https://huggingface.co/spaces/IES-Rafael-Alberti/Concurso-SD-ControlNet-UI-2. 
+                    A photorealistic treehouse in a forest, tropical raining</p>
+            </div>
+            <div class="image-container">
+                <img src="../assets/gallery/tmp0bdp18nw.png" alt="Imagen tmp0bdp18nw">
+                <p>huggingface.co. 
+                    Pompt: Hyper realistic zombie, extremely detailed</p>
+            </div>
+            <div class="image-container">
+                <img src="../assets/gallery/tmpa25bxebd.png" alt="Imagen tmpa25bxebd">
+                <p>stable diffusion promp claudia schiffer childhood black and white realistic photo</p>
+            </div>
+            <div class="image-container">
+                <img src="../assets/gallery/tmpbt59pfz2.png" alt="Imagen tmpbt59pfz2">
+                <p>Ni idea</p>
+            </div>
+            <div class="image-container">
+                <img src="../assets/gallery/tmpby1jp1fr.png" alt="Imagen tmpby1jp1fr">
+                <p>Hugging Face. 
+
+                    Wide angle 100 year old man with sunglasses in messy cluttered house, chaotic cabin in background,hair white. vibrant, photorealistic, realistic, dramatic, dark, sharp focus, 8k.</p>
+            </div>
+            <div class="image-container">
+                <img src="../assets/gallery/tmpjxrcxk5m.png" alt="Imagen tmpjxrcxk5m">
+                <p>Aplicacion hugging. 
+                    Illustrator carnival of a typical fenisian town of southern of spain with people costume
+                    Seed 3
+                    Funcion Controlnet DDIM, Depth</p>
+            </div>
+            <div class="image-container">
+                <img src="../assets/gallery/tmpvwdhbttn.png" alt="Imagen tmpvwdhbttn">
+                <p>-Huggingface.co. 
+                    -Jesús tocando la guitarra. 
+                    Multitud de gente.
+                     Semilla 1</p>
+            </div>
+            <div class="image-container">
+                <img src="../assets/gallery/uirg897.png" alt="Imagen uirg897">
+                <p>Prompt: A pizza in a purple on the beach</p>
+            </div>
+            <div class="image-container">
+                <img src="../assets/gallery/velero.png" alt="Velero">
+                <p>Hugging Face</p>
+            </div>
+            <div class="image-container">
+                <img src="../assets/gallery/yoda_dark.jpeg" alt="Yoda Dark">
+                <p>Cinematic portrait of baby yoda, dark side, inside a burning hall of a golden palace, oil on canvas, masterpiece, trending on artstation, featured on pixiv, cinematic composition, dramatic pose, beautiful lighting, sharp, details, hyper-detailed, hd, hdr, 4k, 8k</p>
+            </div>
+            <div class="image-container">
+                <img src="../assets/gallery/zorrillo jugando al ajedrez.png" alt="Zorrillo jugando al ajedrez">
+                <p>Hugging Face . Fox playing chess</p>
+            </div>
+        </div>
+    </main>
+    <footer>
+        <p>IES Rafael Alberti - Concurso de generación de imágenes con IA</p>
+    </footer>
+    <script>
+        document.querySelectorAll('.image-container img').forEach(image => {
+            image.addEventListener('click', () => {
+                const modal = document.createElement('div');
+                modal.style.position = 'fixed';
+                modal.style.top = 0;
+                modal.style.left = 0;
+                modal.style.width = '100%';
+                modal.style.height = '100%';
+                modal.style.display = 'flex';
+                modal.style.justifyContent = 'center';
+                modal.style.alignItems = 'center';
+                modal.style.backgroundColor = 'rgba(0, 0, 0, 0.8)';
+                modal.style.zIndex = 1000;
+                modal.style.cursor = 'zoom-out';
+    
+                const modalImage = document.createElement('img');
+                modalImage.src = image.src;
+                modalImage.style.maxWidth = '90%';
+                modalImage.style.maxHeight = '90%';
+                modalImage.style.objectFit = 'contain';
+                modal.appendChild(modalImage);
+    
+                document.body.appendChild(modal);
+    
+                modal.addEventListener('click', () => {
+                    document.body.removeChild(modal);
+                });
+            });
+        });
+    </script>
+</body>
+</html>
